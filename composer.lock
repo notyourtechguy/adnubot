@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "2a9714fcbba211a54096944e125f2c76",
+    "content-hash": "2209e5966abf0453488783ff7119702f",
     "packages": [
         {
             "name": "botman/botman",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/botman/botman.git",
-                "reference": "f72f30ceb3fe84f0f18029b1b1434c87f8f8f814"
+                "reference": "4953fcf795c4b58602514d6b488d452b43a9d258"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/botman/botman/zipball/f72f30ceb3fe84f0f18029b1b1434c87f8f8f814",
-                "reference": "f72f30ceb3fe84f0f18029b1b1434c87f8f8f814",
+                "url": "https://api.github.com/repos/botman/botman/zipball/4953fcf795c4b58602514d6b488d452b43a9d258",
+                "reference": "4953fcf795c4b58602514d6b488d452b43a9d258",
                 "shasum": ""
             },
             "require": {
@@ -32,7 +32,7 @@
                 "codeigniter/framework": "~3.0",
                 "doctrine/cache": "^1.6",
                 "ext-curl": "*",
-                "illuminate/support": "~5.0",
+                "illuminate/support": "^5.4",
                 "mockery/mockery": "dev-master",
                 "orchestra/testbench": "~3.0",
                 "phpunit/phpunit": "~5.0",
@@ -71,7 +71,7 @@
                 "bot",
                 "chatbot"
             ],
-            "time": "2017-08-28T13:20:31+00:00"
+            "time": "2017-09-06T19:21:18+00:00"
         },
         {
             "name": "botman/driver-facebook",
@@ -1157,16 +1157,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.5.1",
+            "version": "v5.5.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "fad090f6e14b97df91489803644ac88b5321864e"
+                "reference": "779a98d3b2ebed2128db1a668dcc10a65c9b01be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/fad090f6e14b97df91489803644ac88b5321864e",
-                "reference": "fad090f6e14b97df91489803644ac88b5321864e",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/779a98d3b2ebed2128db1a668dcc10a65c9b01be",
+                "reference": "779a98d3b2ebed2128db1a668dcc10a65c9b01be",
                 "shasum": ""
             },
             "require": {
@@ -1285,7 +1285,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2017-09-01T06:33:38+00:00"
+            "time": "2017-09-07T13:50:21+00:00"
         },
         {
             "name": "laravel/tinker",
@@ -1797,12 +1797,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/notyourtechguy/adnusniper.git",
-                "reference": "128e1b442adb755b12a65970753111d02806a032"
+                "reference": "adcfcf92669de54c26b80784b99e3eb23ace1747"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/notyourtechguy/adnusniper/zipball/128e1b442adb755b12a65970753111d02806a032",
-                "reference": "128e1b442adb755b12a65970753111d02806a032",
+                "url": "https://api.github.com/repos/notyourtechguy/adnusniper/zipball/adcfcf92669de54c26b80784b99e3eb23ace1747",
+                "reference": "adcfcf92669de54c26b80784b99e3eb23ace1747",
                 "shasum": ""
             },
             "require": {
@@ -1812,6 +1812,7 @@
                 "vlucas/phpdotenv": "^2.4"
             },
             "require-dev": {
+                "bmitch/churn-php": "^0.2.0",
                 "symfony/var-dumper": "^3.3"
             },
             "type": "project",
@@ -1832,7 +1833,7 @@
                 }
             ],
             "description": "ADNU Sniper",
-            "time": "2017-09-02T13:55:28+00:00"
+            "time": "2017-09-07T14:11:41+00:00"
         },
         {
             "name": "opis/closure",
@@ -4441,16 +4442,16 @@
         },
         {
             "name": "phpdocumentor/reflection-docblock",
-            "version": "3.2.3",
+            "version": "4.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/ReflectionDocBlock.git",
-                "reference": "86e24012a3139b42a7b71155cfaa325389f00f1f"
+                "reference": "2d3d238c433cf69caeb4842e97a3223a116f94b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/86e24012a3139b42a7b71155cfaa325389f00f1f",
-                "reference": "86e24012a3139b42a7b71155cfaa325389f00f1f",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/2d3d238c433cf69caeb4842e97a3223a116f94b2",
+                "reference": "2d3d238c433cf69caeb4842e97a3223a116f94b2",
                 "shasum": ""
             },
             "require": {
@@ -4482,7 +4483,7 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2017-08-29T19:37:41+00:00"
+            "time": "2017-08-30T18:51:59+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -4533,22 +4534,22 @@
         },
         {
             "name": "phpspec/prophecy",
-            "version": "v1.7.0",
+            "version": "v1.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "93d39f1f7f9326d746203c7c056f300f7f126073"
+                "reference": "c9b8c6088acd19d769d4cc0ffa60a9fe34344bd6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/93d39f1f7f9326d746203c7c056f300f7f126073",
-                "reference": "93d39f1f7f9326d746203c7c056f300f7f126073",
+                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/c9b8c6088acd19d769d4cc0ffa60a9fe34344bd6",
+                "reference": "c9b8c6088acd19d769d4cc0ffa60a9fe34344bd6",
                 "shasum": ""
             },
             "require": {
                 "doctrine/instantiator": "^1.0.2",
                 "php": "^5.3|^7.0",
-                "phpdocumentor/reflection-docblock": "^2.0|^3.0.2",
+                "phpdocumentor/reflection-docblock": "^2.0|^3.0.2|^4.0",
                 "sebastian/comparator": "^1.1|^2.0",
                 "sebastian/recursion-context": "^1.0|^2.0|^3.0"
             },
@@ -4559,7 +4560,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.6.x-dev"
+                    "dev-master": "1.7.x-dev"
                 }
             },
             "autoload": {
@@ -4592,7 +4593,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2017-03-02T20:05:34+00:00"
+            "time": "2017-09-04T11:05:03+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -5639,9 +5640,7 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "notyourtechguy/snipe": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {

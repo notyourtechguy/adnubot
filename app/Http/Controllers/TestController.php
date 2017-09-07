@@ -11,6 +11,6 @@ class TestController extends Controller
     {
     	$student = new Student('201011229', '985464');
     	$studentInfo = $student->getUserInfo();
-    	// dd($studentInfo);
+    	return $studentInfo;
     }
 }
