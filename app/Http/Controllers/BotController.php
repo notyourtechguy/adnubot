@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Notyourtechguy\Sniper\Student;
+use \Notyourtechguy\Sniper\Student;
 
 class BotController extends Controller
 {
